@@ -1,0 +1,6 @@
+
+# visual poetry dataset
+visual_poetry:
+  skip_first_and_last_page: true
+  p0_affix: "_p0001"  # define this to help trim p0 and p{final}
+  
