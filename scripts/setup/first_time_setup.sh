@@ -14,6 +14,8 @@ uv init --python 3.11   # warning: have you already init'd to an earlier python 
 uv add omegaconf
 uv add hydra-core
 
+uv add pdf2image
+
 # uv venv  # if you don't already have a venv
 source .venv/bin/activate
 
